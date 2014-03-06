@@ -3,7 +3,8 @@
 
 Urban is an Xcode color scheme that uses a soft dark background, with subtle blue, orange and yellow colors (formerly known as ǝɹɐǝqʎǝuoɔ).
 
-![http://raw.github.com/UrbanApps/Urban/master/Urban.png](Screenshot)
+![Screenshot](https://raw.github.com/UrbanApps/Urban/master/Urban.png)
+
 
 ##Installation
 
