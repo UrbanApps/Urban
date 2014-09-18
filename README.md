@@ -33,6 +33,7 @@ You can also install manually using these commands in Terminal:
 
 ## Open-Source Urban Apps Projects
 
+- [Armchair](https://github.com/UrbanApps/Armchair) - A simple yet powerful App Review Manager for iOS and OSX (Swift)
 - [UAModalPanel](https://github.com/UrbanApps/UAModalPanel) - An animated modal panel alternative for iOS
 - [UAAppReviewManager](https://github.com/UrbanApps/UAAppReviewManager) - An app review prompting tool for iOS and Mac App Store apps.
 - [UALogger](https://github.com/UrbanApps/UALogger) - A logging utility for Mac/iOS apps
